@@ -1,0 +1,5 @@
+export const API_BLOG='http://localhost:8080/blog_system/blog'
+export const API_LOGIN='http://localhost:8080/blog_system/login'
+export const API_REGISTER='http://localhost:8080/blog_system/register'
+export const API_PUBLISH='http://localhost:8080/blog_system/publish'
+export const API_DELETE='http://localhost:8080/blog_system/deleteBlog'
